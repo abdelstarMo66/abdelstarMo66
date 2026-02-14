@@ -1,27 +1,17 @@
-## Hi, I’m Muhamed Abdel-Satar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Computer+Engineering" /></a>
+## Hi, I’m Muhamed Abdel-Satar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=5eead4&size=22&center=false&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer" /></a>
 </p>
 
-<p align ="center">
-   <a href="https://api.whatsapp.com/send?phone=0201050609664" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:mohamedabdelstar30@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
-   <a href="https://www.linkedin.com/in/abdelsatar5060/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-  <a href="https://twitter.com/mhmeed3bstar" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-   <a href="https://www.instagram.com/mohammed_abdel_satar" target="_blank">
-      <img src="https://img.shields.io/badge/Instgram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
-    </a>
-  </p>
+<p align="left">
+  <a href="https://api.whatsapp.com/send?phone=0201050609664" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:mohamedabdelstar30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelsatar5060/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mhmeed3bstar" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 
+---
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelstarMo66%20&theme=tokyonight&hide_border=true" alt="SubhadeepZilong" /></p>
@@ -42,42 +32,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 💻 Programming Languages
-<p>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/npm.svg" width="36" height="36" alt="NPM" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images//android.svg" width="36" height="36" alt="Android Studio" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" width="36" height="36" alt="Git" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,nodejs,express,nestjs,python,cpp,mongodb,postgres,mysql,firebase,graphql,figma,git,vscode,androidstudio" />
 </p>
-<!-- <p>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' height="50" width="50"/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' height="50" width="50"/> 
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/firebase.svg' height="50" width="50"/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height="50" width="50"/> 
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg' height="50" width="50"/>
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg' height="50" width="50"/> 
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/npm.svg' height="50" width="50"/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' height="50" width="50"/>
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg' height="50" width="50"/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' height="50" width="50"/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' height="50" width="50"/>
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg' height="50" width="50"/>
-<img src = 'https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg' height="50" width="50"/>	
-</p> -->
 
 ## Top Repositories
 
